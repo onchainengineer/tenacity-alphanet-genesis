@@ -2,7 +2,7 @@
     "testnet": {
     "name": "testnet",
     "chainID": "helpnetwork-angel-1",
-    "lcd": "http://52.188.202.254:1317",
+    "lcd": "https://1317-onchainengi-helpnetwork-vxhxt0yshqb.ws-us54.gitpod.io",
     "api": "http://52.188.202.254:1317",
     "walletconnectID": 0
   }
