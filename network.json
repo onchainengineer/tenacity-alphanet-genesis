@@ -2,8 +2,8 @@
     "testnet": {
     "name": "testnet",
     "chainID": "helpnetwork-angel-1",
-    "lcd": "https://52.188.202.254:1317",
-    "api": "https://52.188.202.254:1317",
+    "lcd": "http://52.188.202.254:1317",
+    "api": "http://52.188.202.254:1317",
     "walletconnectID": 0
   }
 }
