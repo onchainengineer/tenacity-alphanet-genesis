@@ -3,7 +3,7 @@
     "name": "testnet",
     "chainID": "helpnetwork-angel-1",
     "lcd": "http://helpnetworknode001.eastus.cloudapp.azure.com:1317",
-    "api": "https://1317-onchainengi-helpnetwork-kam7re6qhpk.ws-us54.gitpod.io",
+    "api": "http://helpnetworknode001.eastus.cloudapp.azure.com:1317",
     "walletconnectID": 0
   }
 }
