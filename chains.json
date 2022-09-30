@@ -1,7 +1,7 @@
 {
     "testnet": {
     "name": "testnet",
-    "chainID": "helpnetwork-angel-1",
+    "chainID": "athena-001",
     "lcd": "http://helpnetworknode001.eastus.cloudapp.azure.com:1317",
     "api": "http://helpnetworknode001.eastus.cloudapp.azure.com:26657",
     "walletconnectID": 0
